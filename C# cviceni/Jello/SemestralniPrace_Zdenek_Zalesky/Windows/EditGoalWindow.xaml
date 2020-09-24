@@ -1,0 +1,52 @@
+﻿<Window x:Class="SemestralniPrace_Zdenek_Zalesky.Windows.EditGoalWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SemestralniPrace_Zdenek_Zalesky.Windows"
+        mc:Ignorable="d"
+        Title="EditGoalWindow" Height="391" Width="800">
+    <Grid Margin="10" x:Name="Splitter">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="DetailsStackPanel" Grid.Column="0">
+            <TextBox x:Name="NameText" FontSize="24" Margin="5, 0">Name</TextBox>
+            <DatePicker x:Name="ReminderPicker"></DatePicker>
+            <TextBox MinHeight="100" x:Name="DescriptionText">Description</TextBox>
+            <TextBlock Margin="5" x:Name="LabelsLabel">Labels</TextBlock>
+            <DockPanel>
+                <Button DockPanel.Dock="Right" Width="20" x:Name="AddLabel" Click="AddLabel_Click">+</Button>
+                <StackPanel Orientation="Horizontal" x:Name="LabelsStack">
+                </StackPanel>
+            </DockPanel>
+            <TextBlock Margin="5" x:Name="AttachmentsLabel">Attachments:</TextBlock>
+            <DockPanel>
+                <Button DockPanel.Dock="Bottom" x:Name="AddAttachmentButton" Click="AddAttachmentButton_Click">Add Attachment</Button>
+                <StackPanel x:Name="AttachmentsPanel">
+                </StackPanel>
+            </DockPanel>
+        </StackPanel>
+        <DockPanel Grid.Column="1">
+            <StackPanel x:Name="CheckBoxStack">
+            </StackPanel>
+        </DockPanel>
+        <Button DockPanel.Dock="Bottom" x:Name="AddCheckBoxButton" Click="AddCheckBoxButton_Click" Grid.Column="1" Grid.Row="1">Add Item</Button>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Width="100" x:Name="OK" Click="OK_Click" Grid.Column="0">OK</Button>
+            <Button Width="100" x:Name="Delete" Click="Delete_Click" Grid.Column="1">Delete</Button>
+            <Button Width="100" x:Name="Cancel" Click="Cancel_Click" Grid.Column="2">Cancel</Button>
+            
+        </Grid>
+    </Grid>
+</Window>

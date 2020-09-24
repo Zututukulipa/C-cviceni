@@ -1,0 +1,13 @@
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.exe
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.deps.json
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.runtimeconfig.json
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.runtimeconfig.dev.json
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.dll
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\bin\Debug\netcoreapp3.1\GarbageCollector.pdb
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.dll
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.pdb
+C:\Users\zttkl\source\repos\CV09Zalesky\GarbageCollector\obj\Debug\netcoreapp3.1\GarbageCollector.genruntimeconfig.cache

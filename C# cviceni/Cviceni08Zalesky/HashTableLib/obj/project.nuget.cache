@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ufrKGzfkGahtBNc/cQiFTUTFNaiOhSFuGRkRqDF3SZHUihL0mm6ZXHcf+NHHJ8+cf2ApcjVACnU/d0Ufgammw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zttkl\\source\\repos\\Cviceni08Zalesky\\HashTableLib\\HashTableLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zttkl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zttkl\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512",
+    "C:\\Users\\zttkl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

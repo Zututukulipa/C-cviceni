@@ -1,0 +1,16 @@
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\LibTest.exe
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\LibTest.deps.json
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\LibTest.runtimeconfig.json
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\LibTest.runtimeconfig.dev.json
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\LibTest.dll
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\LibTest.pdb
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\BaseLib.dll
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\bin\Debug\netcoreapp3.1\BaseLib.pdb
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.csproj.CopyComplete
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.dll
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.pdb
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.csproj.CoreCompileInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\LibTest\obj\Debug\netcoreapp3.1\LibTest.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\bin\Debug\netcoreapp3.1\Zadani0.exe
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\bin\Debug\netcoreapp3.1\Zadani0.deps.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\bin\Debug\netcoreapp3.1\Zadani0.runtimeconfig.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\bin\Debug\netcoreapp3.1\Zadani0.runtimeconfig.dev.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\bin\Debug\netcoreapp3.1\Zadani0.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\bin\Debug\netcoreapp3.1\Zadani0.pdb
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\obj\Debug\netcoreapp3.1\Zadani0.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\obj\Debug\netcoreapp3.1\Zadani0.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\obj\Debug\netcoreapp3.1\Zadani0.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\obj\Debug\netcoreapp3.1\Zadani0.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Zadani0\obj\Debug\netcoreapp3.1\Zadani0.pdb

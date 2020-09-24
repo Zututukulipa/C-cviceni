@@ -1,0 +1,14 @@
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\SemestralniPrace_Zdenek_Zalesky.exe
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\JelloTests.deps.json
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\JelloTests.runtimeconfig.json
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\JelloTests.runtimeconfig.dev.json
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\b\JelloTests\Debug\netcoreapp3.1\JelloTests.dll
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\i\JelloTests\Debug\netcoreapp3.1\JelloTests.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\i\JelloTests\Debug\netcoreapp3.1\JelloTests.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\i\JelloTests\Debug\netcoreapp3.1\JelloTests.csproj.CopyComplete
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\i\JelloTests\Debug\netcoreapp3.1\JelloTests.dll
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\i\JelloTests\Debug\netcoreapp3.1\JelloTests.genruntimeconfig.cache
+C:\Users\zttkl\source\repos\Jello\.vs\Jello\v16\lut\0\i\JelloTests\Debug\netcoreapp3.1\JelloTests.csprojAssemblyReference.cache

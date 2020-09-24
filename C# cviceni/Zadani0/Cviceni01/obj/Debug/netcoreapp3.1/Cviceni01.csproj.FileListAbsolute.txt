@@ -1,0 +1,13 @@
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\bin\Debug\netcoreapp3.1\Cviceni01.exe
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\bin\Debug\netcoreapp3.1\Cviceni01.deps.json
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\bin\Debug\netcoreapp3.1\Cviceni01.runtimeconfig.json
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\bin\Debug\netcoreapp3.1\Cviceni01.runtimeconfig.dev.json
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\bin\Debug\netcoreapp3.1\Cviceni01.dll
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\bin\Debug\netcoreapp3.1\Cviceni01.pdb
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.dll
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.pdb
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.csproj.CoreCompileInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Zadani0\Cviceni01\obj\Debug\netcoreapp3.1\Cviceni01.genruntimeconfig.cache

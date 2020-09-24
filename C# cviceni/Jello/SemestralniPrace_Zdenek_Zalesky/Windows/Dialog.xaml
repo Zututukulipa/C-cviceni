@@ -1,0 +1,21 @@
+﻿<Window x:Class="SemestralniPrace_Zdenek_Zalesky.Windows.Dialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SemestralniPrace_Zdenek_Zalesky.Windows"
+        mc:Ignorable="d"
+        Title="Dialog" Height="100" Width="200">
+    <DockPanel>
+        <Grid DockPanel.Dock="Bottom" Height="25">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Content="OK" Click="OKButton_Click" Grid.Column="0" MaxHeight="30" Margin="0, 2"/>
+            <Button Content="Cancel" Click="CancelButton_Click" Grid.Column="1" MaxHeight="30" Margin="0, 2"/>
+        </Grid>
+        <TextBox x:Name="ResponseTextBox" Margin="2"/>
+
+    </DockPanel>
+</Window>

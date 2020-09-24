@@ -1,0 +1,16 @@
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\BaseLib.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\bin\Debug\netcoreapp3.1\BaseLib.pdb
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CopyComplete
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

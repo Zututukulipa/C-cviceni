@@ -1,0 +1,9 @@
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\bin\Debug\netcoreapp3.1\BaseLib.deps.json
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\bin\Debug\netcoreapp3.1\BaseLib.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\bin\Debug\netcoreapp3.1\BaseLib.pdb
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.dll
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.pdb
+C:\Users\zttkl\source\repos\seeSharp\Cviceni02\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.csproj.CoreCompileInputs.cache

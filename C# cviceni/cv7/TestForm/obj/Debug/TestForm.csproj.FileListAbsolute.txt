@@ -1,0 +1,10 @@
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\bin\Debug\TestForm.exe
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\bin\Debug\TestForm.pdb
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.exe
+C:\Users\zttkl\source\repos\seeSharp\cv7\TestForm\obj\Debug\TestForm.pdb

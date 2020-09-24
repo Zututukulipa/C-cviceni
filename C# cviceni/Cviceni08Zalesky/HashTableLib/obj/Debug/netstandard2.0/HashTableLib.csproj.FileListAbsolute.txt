@@ -1,0 +1,9 @@
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\bin\Debug\netstandard2.0\HashTableLib.deps.json
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\bin\Debug\netstandard2.0\HashTableLib.dll
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\bin\Debug\netstandard2.0\HashTableLib.pdb
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\obj\Debug\netstandard2.0\HashTableLib.csprojAssemblyReference.cache
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\obj\Debug\netstandard2.0\HashTableLib.csproj.CoreCompileInputs.cache
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\obj\Debug\netstandard2.0\HashTableLib.AssemblyInfoInputs.cache
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\obj\Debug\netstandard2.0\HashTableLib.AssemblyInfo.cs
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\obj\Debug\netstandard2.0\HashTableLib.dll
+C:\Users\zttkl\source\repos\Cviceni08Zalesky\HashTableLib\obj\Debug\netstandard2.0\HashTableLib.pdb
